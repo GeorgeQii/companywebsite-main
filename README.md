@@ -65,39 +65,15 @@ project-folder/
 - **JavaScript**: 用于实现交互功能，如语言切换、表单提交等。
 - **jQuery**: 简化DOM操作和事件处理。
 
-## 运行项目
+## 联系我们
 
-1. **克隆项目**
-   ```bash
-   git clone https://github.com/your-repo-url.git
-
-## 打开首页
-
-- 打开 `index.html` 查看中文版首页。
-- 打开 `index_en.html` 查看英文版首页。
-
-## 查看其他页面
-
-根据需要打开对应的HTML文件即可。
-
-## 贡献指南
-
-如果您希望为项目贡献代码，请遵循以下步骤：
-
-1. **Fork 项目**
-   - 点击GitHub仓库右上角的 "Fork" 按钮，将项目复制到您的GitHub账户。
-
-2. **创建分支**
-   ```bash
-   git checkout -b feature/your-feature-name
-
-发起Pull Request
-在GitHub上发起Pull Request，等待审核。
-联系我们
 如果您有任何问题或建议，请随时通过以下方式联系我们：
-邮箱: contact@pleasanttechventures.com
-电话: +86 15611417470
-地址: 北京市延庆区中关村延庆园长城路2号楼E座387室
-版权信息
-© 2025 北京愉佚科技发展有限公司
+
+- **邮箱**: contact@pleasanttechventures.com
+- **电话**: +86 15611417470
+- **地址**: 北京市延庆区中关村延庆园长城路2号楼E座387室
+
+## 版权信息
+
+© 2025 北京愉佚科技发展有限公司  
 © 2025 PleasantTech Ventures Co., Ltd.
