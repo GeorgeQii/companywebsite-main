@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- 首页 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/index.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/index_en.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- 公司简介 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/about.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/about_en.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 服务项目 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/services.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.9</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/services_en.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- 招聘信息 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/careers.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 联系方式 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/contact.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/contact_en.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- IT资产管理服务 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/IT资产销售、管理及租赁.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/IT_asset_sales_management_and_leasing.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 智能化工业与家居 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/智能化工业以及家居类产品.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/intelligent_industrial_and_home_products.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 集成项目与弱电土建服务 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/集成项目和弱电土建一条龙服务.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/integrated_projects_and_weak_current_civil_engineering.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- 智能停车场与能源管理 -->
+    <url>
+        <loc>https://www.pleasanttechventures.com/智能停车场以及能源管理.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://www.pleasanttechventures.com/smart_parking_lots_and_energy_management.html</loc>
+        <lastmod>2025-02-22</lastmod>
+        <priority>0.8</priority>
+    </url>
+</urlset>
