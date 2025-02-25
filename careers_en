@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <title>Careers - PleasantTech Ventures Co., Ltd.</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <meta name="description" content="Join PleasantTech Ventures Co., Ltd. and be part of a dynamic team driving technological innovation. Explore our current job openings and career opportunities." />
+    <meta name="keywords" content="PleasantTech Ventures, careers, job openings, technology, innovation, join us">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="PleasantTech Ventures Co., Ltd.">
+    <link rel="canonical" href="https://www.pleasantteches.com/careers_en.html">
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header" class="alt">
+            <a href="index_en.html" class="logo"><strong>PleasantTech Ventures Co., Ltd.</strong> <span>Technology Services & Innovation</span></a>
+            <nav>
+                <a href="#menu">Menu</a>
+                <a href="careers.html" class="language-switch">中文</a> <!-- Language switch to Chinese -->
+            </nav>
+        </header>
+
+        <!-- Menu -->
+        <nav id="menu">
+            <ul class="links">
+                <li><a href="index_en.html">Home</a></li>
+                <li><a href="about_en.html">About Us</a></li>
+                <li><a href="services_en.html">Services</a></li>
+                <li><a href="https://blog.pleasantteches.com/index_en.html">News</a></li> <!-- News link -->
+                <li><a href="contact_en.html">Contact</a></li>
+            </ul>
+        </nav>
+
+        <!-- Banner -->
+        <section id="banner" class="style2">
+            <div class="inner">
+                <span class="image">
+                    <img src="images/careers.jpg" alt="Careers" />
+                </span>
+                <header class="major">
+                    <h1>Join Us</h1>
+                </header>
+                <div class="content">
+                    <p>PleasantTech Ventures Co., Ltd. is looking for talented individuals to join our team.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main -->
+        <div id="main">
+
+            <!-- One -->
+            <section id="one">
+                <div class="inner">
+                    <header class="major">
+                        <h2>Why Choose PleasantTech Ventures</h2>
+                    </header>
+                    <p>We are committed to driving technological innovation and offer a wide range of career opportunities. By joining us, you will benefit from:</p>
+                    <ul>
+                        <li>Opportunities to collaborate with top industry teams</li>
+                        <li>Competitive salaries and benefits</li>
+                        <li>Ongoing professional training and growth</li>
+                        <li>An innovative work environment and team culture</li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Two -->
+            <section id="two">
+                <div class="inner">
+                    <header class="major">
+                        <h2>Current Positions</h2>
+                    </header>
+                    <p>Below are our current job openings. We welcome your application.</p>
+                    <ul class="features">
+                        <li>
+                            <h3>Software Developer</h3>
+                            <p>Responsible for the design, development, and optimization of software products. Requires a degree in computer science or related fields, proficiency in mainstream programming languages, and excellent teamwork skills.</p>
+                            <ul class="actions">
+                                <li><a href="mailto:hr@pleasantteches.com" class="button">Apply Now</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3>Smart Hardware Engineer</h3>
+                            <p>Participate in the research and development of smart hardware products. Requires a background in electronic engineering or related fields, and familiarity with hardware design and embedded systems.</p>
+                            <ul class="actions">
+                                <li><a href="mailto:hr@pleasantteches.com" class="button">Apply Now</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <h3>Sales Manager</h3>
+                            <p>Responsible for the market promotion and sales of company products. Requires excellent communication skills and market expansion experience.</p>
+                            <ul class="actions">
+                                <li><a href="mailto:hr@pleasantteches.com" class="button">Apply Now</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Three -->
+            <section id="three">
+                <div class="inner">
+                    <header class="major">
+                        <h2>Contact Us</h2>
+                    </header>
+                    <p>If you are interested in our positions or have any questions, please feel free to contact us. We look forward to your application!</p>
+                    <ul class="actions">
+                        <li><a href="contact_en.html" class="button next">Contact Information</a></li>
+                    </ul>
+                </div>
+            </section>
+
+        </div>
+
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="inner">
+                <ul class="copyright">
+                    <li>&copy; PleasantTech Ventures Co., Ltd. 2025</li>
+                </ul>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
