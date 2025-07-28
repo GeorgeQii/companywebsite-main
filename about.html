@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="assets/css/main.css" />
     <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
     <style>
-        /* 添加自定义样式以居中显示照片轮播 */
         #photo-carousel {
             display: flex;
             justify-content: center;
@@ -18,30 +17,25 @@
             text-align: center;
             margin: 20px 0;
         }
-
         .carousel {
             position: relative;
-            max-width: 80%; /* 根据需要调整宽度 */
+            max-width: 80%;
             margin: 0 auto;
             overflow: hidden;
         }
-
         .carousel-inner {
             display: flex;
             transition: transform 0.5s ease;
         }
-
         .carousel-item {
             min-width: 100%;
             transition: transform 0.5s ease;
         }
-
         .carousel-item img {
             width: 100%;
             height: auto;
-            object-fit: cover; /* 确保图片覆盖整个容器 */
+            object-fit: cover;
         }
-
         .prev, .next {
             position: absolute;
             top: 50%;
@@ -53,31 +47,8 @@
             z-index: 10;
             user-select: none;
         }
-
-        .prev {
-            left: 10px;
-        }
-
-        .next {
-            right: 10px;
-        }
-
-        /* 新增回到首页按钮的样式 */
-        #back-to-home {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color: #007bff;
-            color: white;
-            text-align: center;
-            text-decoration: none;
-            border-radius: 5px;
-            font-size: 16px;
-        }
-
-        #back-to-home:hover {
-            background-color: #0056b3;
-        }
+        .prev { left: 10px; }
+        .next { right: 10px; }
     </style>
 </head>
 <body class="is-preload">
@@ -86,7 +57,7 @@
     <div id="wrapper">
 
         <!-- Header -->
-        <header id="header" class="alt">
+        <header id="header">
             <a href="index.html" class="logo"><strong>北京愉佚科技发展有限公司</strong> <span>技术服务与创新</span></a>
             <nav>
                 <a href="#menu">Menu</a>
@@ -100,7 +71,7 @@
                 <li><a href="index.html">首页</a></li>
                 <li><a href="about.html">公司简介</a></li>
                 <li><a href="services.html">服务项目</a></li>
-                <li><a href="https://space.bilibili.com/3546822953928942?spm_id_from=333.33.0.0">新闻动态</a></li> <!-- 添加新闻动态导航项 -->
+                <li><a href="https://space.bilibili.com/3546822953928942?spm_id_from=333.33.0.0" target="_blank">新闻动态</a></li>
                 <li><a href="contact.html">联系方式</a></li>
             </ul>
         </nav>
@@ -196,29 +167,30 @@
             </div>
         </footer>
 
-        <!-- 新增回到首页按钮 -->
-        <a href="index.html" id="back-to-home">回到首页</a>
-
     </div>
 
     <!-- Scripts -->
     <script>
         let currentSlide = 0;
-
         function moveSlide(step) {
             const slides = document.querySelectorAll('.carousel-item');
             const totalSlides = slides.length;
             currentSlide += step;
             if (currentSlide >= totalSlides) currentSlide = 0;
             if (currentSlide < 0) currentSlide = totalSlides - 1;
-
             const newTransform = `translateX(-${currentSlide * 100}%)`;
             document.querySelector('.carousel-inner').style.transform = newTransform;
-
             slides.forEach((slide, index) => {
                 slide.classList.toggle('active', index === currentSlide);
             });
         }
     </script>
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 </html>
